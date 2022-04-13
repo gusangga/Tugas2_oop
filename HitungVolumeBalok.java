@@ -1,4 +1,5 @@
-package Tugas2_OOP;
+package tugas02_oop;
+
 /**
  *
  * @author I Gusti Ngurah Angga Putra Sukanta
